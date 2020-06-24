@@ -30,7 +30,7 @@ Once you have an API key, you can then run a **Prysm eth2 beacon node** by point
 
 ## Running your own eth1 node
 
-You can also run your own eth1 node in the full spirit of decentralization and use that for your eth2 Prysm beacon nodes. You can look at instructions on the various ways of running eth1 Goërli nodes [here](https://github.com/goerli/testnet#connecting-the-clients). We'll be giving an example of running a go-ethereum node on Goërli.
+You can also run your own eth1 node in the full spirit of decentralization and use that for your eth2 Prysm beacon nodes. You can look at instructions on the various ways of running eth1 Görli nodes [here](https://github.com/goerli/testnet#connecting-the-clients). We'll be giving an example of running a go-ethereum node on Görli.
 
 First, install go-ethereum [here](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum0).
 
@@ -51,5 +51,5 @@ Next, in a separate terminal window, you can run a Prysm beacon node according t
 The Nethermind team provided an awesome explanation on how to connect their eth1 node to a Lighthouse eth2 node, another implementation written in the Rust programming language. You can read more about it [here](https://medium.com/nethermind-eth/using-nethermind-to-run-a-validator-in-eth2-5c227653e197).
 
 Other useful links are below:
-- [What is the Goërli Testnet?](https://goerli.net/)
-- [Goërli Testnet Explorer](https://goerli.etherscan.io/)
+- [What is the Görli Testnet?](https://goerli.net/)
+- [Görli Testnet Explorer](https://goerli.etherscan.io/)
